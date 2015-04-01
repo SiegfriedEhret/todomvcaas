@@ -13,7 +13,7 @@ Because you can choose a frontend framework by making a Todo MVC app like you c
  
 ## Install and run
 
-Execute `bower install` to retrieve the dependencies, then run a server and open `demo.html`.
+Execute `bower install` to retrieve the dependencies, then run a server and open `index.html`.
 (I have an alias: `http-serve` which runs `python -m SimpleHTTPServer`).
 
 ## IT DOESN'T WORK
