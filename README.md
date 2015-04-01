@@ -39,4 +39,4 @@ Licensed under the [wtfpl](http://wtfpl.org/)
 
 ## Is this for fun ?
 
-Yup.
+Yup. Happy 1st of April !
