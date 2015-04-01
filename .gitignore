@@ -1,0 +1,6 @@
+# Libs
+bower_components/
+
+# IDE stuff
+.idea/
+*todo.iml
