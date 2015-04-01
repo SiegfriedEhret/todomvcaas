@@ -13,7 +13,7 @@ Because you can choose a frontend framework by making a Todo MVC app like you c
 
 ## Demo
 
-[Enjoy](https://dev.ehret.me/todomvcaas/).
+[Enjoy](http://dev.ehret.me/todomvcaas/).
 
 (if your browser needs you to "unblock" external content, do it ^^).
  
