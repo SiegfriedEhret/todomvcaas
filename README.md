@@ -16,6 +16,11 @@ Because you can choose a frontend framework by making a Todo MVC app like you c
 Execute `bower install` to retrieve the dependencies, then run a server and open `demo.html`.
 (I have an alias: `http-serve` which runs `python -m SimpleHTTPServer`).
 
+## IT DOESN'T WORK
+
+![it works on my machine](https://raw.githubusercontent.com/SiegfriedEhret/todomvcaas/master/works.png).
+(I haven't tried it outside of Opera though...)
+
 ## License
 
 Licensed under the [wtfpl](http://wtfpl.org/)
