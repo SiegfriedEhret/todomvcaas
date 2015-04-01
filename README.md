@@ -22,7 +22,8 @@ Execute `bower install` to retrieve the dependencies, then run a server and open
 
 ## IT DOESN'T WORK
 
-![it works on my machine](https://github.com/SiegfriedEhret/todomvcaas/blob/master/works.png?raw=true).
+![it works on my machine](https://github.com/SiegfriedEhret/todomvcaas/blob/master/works.png?raw=true)
+
 (I haven't tried it outside of Opera though...)
 
 ## License
